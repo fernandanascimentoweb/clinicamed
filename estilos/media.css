@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+@media screen and (min-width:600px) and (max-width:768px) {
+
+img#med {
+    background: url('../imagens/medicas.avif');
+    background-position: right top;
+
+}
+img .med {
+    width: 10px;
+    padding: 30px 8%;
+}
+
+.flex {
+    padding: 20px 8%;
+}
+    
+}
+
